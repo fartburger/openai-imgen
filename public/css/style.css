@@ -1,0 +1,40 @@
+
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 0.9;
+    color:rgb(255, 255, 255);
+    background: radial-gradient(ellipse at top, #4511d4,#118cd4);
+    align-items: center;
+}
+
+.navbar {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showcase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#link {
+    color: white;
+}
+
+.image-container {
+    display: flex;
+}
+
+#image1 {
+    justify-content: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
